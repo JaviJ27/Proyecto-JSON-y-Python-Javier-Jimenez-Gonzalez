@@ -1,0 +1,366 @@
+{
+  "PC1": {
+    "CPU": {
+      "Fabricante": "AMD",
+      "Modelo": "Ryzen 7 9800X3D",
+      "Nucleos/Hilos": "8C/16T",
+      "Frecuencia": {
+        "Base": "4.2 GHz",
+        "Boost": "5.6 GHz"
+      },
+      "Caché": {
+        "L1": "720 KB",
+        "L2": "8 MB",
+        "L3": "96 MB"
+      },
+      "TDP": "120W",
+      "Socket": "AM5",
+      "Tecnología": "TSMC 5nm FinFET",
+      "Precio": "600€"
+    },
+    "PlacaBase": {
+      "Fabricante": "GIGABYTE",
+      "Modelo": "X870 A ELITE WIFI7 ICE",
+      "Socket": "AM5",
+      "Chipset": "X870",
+      "Memoria RAM": "DDR5 hasta 192GB",
+      "Almacenamiento": {
+        "M.2": "4x PCIe 5.0",
+        "SATA": "6x SATA 6Gb/s"
+      },
+      "Puertos USB": {
+        "USB4 Gen 2×2": "2",
+        "USB 3.2 Gen 2": "3",
+        "USB 3.2 Gen 1": "4",
+        "USB 2.0": "2"
+      },
+      "Redes": {
+        "WiFi": "WiFi 7",
+        "Ethernet": "2.5Gb Ethernet"
+      },
+      "Precio": "331,54€"
+    },
+    "TarjetaGrafica": {
+      "Fabricante": "ZOTAC GAMING",
+      "Modelo": "GeForce RTX 5070 SOLID OC",
+      "Memoria": {
+        "Tamaño": "12GB",
+        "Tipo": "GDDR7"
+      },
+      "Interfaz": "PCIe 5.0",
+      "Núcleos CUDA": "8192",
+      "Frecuencia Boost": "2.5 GHz",
+      "Consumo": "285W",
+      "Conectividad": {
+        "HDMI": "HDMI 2.1a",
+        "DisplayPort": "DisplayPort 2.1"
+      },
+      "Precio": "725,83€"
+    },
+    "MemoriaRAM": {
+      "Fabricante": "Corsair",
+      "Modelo": "Vengeance RGB DDR5 White",
+      "Capacidad": "64GB",
+      "Modulos": "2x32GB",
+      "Frecuencia": "5600MHz",
+      "Latencia": "CL40",
+      "Voltaje": "1.25V",
+      "RGB": "Sí",
+      "Precio": "199,99€"
+    },
+    "DiscoDuro": {
+      "Fabricante": "Western Digital",
+      "Modelo": "Black SN850X",
+      "Capacidad": "4TB",
+      "Tipo": "SSD NVMe",
+      "Interfaz": "PCIe 5.0 M.2",
+      "Velocidad": {
+        "Lectura": "7300MB/s",
+        "Escritura": "6600MB/s"
+      },
+      "Precio": "292,36€"
+    },
+    "FuenteAlimentacion": {
+      "Fabricante": "Forgeon",
+      "Modelo": "Bolt PSU 1000W",
+      "Potencia": "1000W",
+      "Eficiencia": "80+ Gold",
+      "Modular": "Full Modular",
+      "Color": "Blanca",
+      "Precio": "210€"
+    },
+    "RefrigeracionLiquida": {
+      "Fabricante": "Lian-Li",
+      "Modelo": "Galahad 2 240 SL Kit",
+      "Radiador": "240mm",
+      "Ventiladores": {
+        "Cantidad": "2",
+        "Tamaño": "120mm",
+        "Tipo": "ARGB"
+      },
+      "Compatibilidad": [
+        "AM5",
+        "LGA1700",
+        "AM4"
+      ],
+      "Precio": "155,31€"
+    },
+    "Caja": {
+      "Fabricante": "Hyte",
+      "Modelo": "Y70",
+      "Formato": "ATX Mid Tower",
+      "Panel Lateral": "Vidrio templado",
+      "Soporte GPU": {
+        "Vertical": "Sí",
+        "Horizontal": "Sí"
+      },
+      "Colores": [
+        "Negro",
+        "Blanco",
+        "Rojo"
+      ],
+      "Precio": "219,99€"
+    }
+  },
+  "PC2": {
+    "CPU": {
+      "Fabricante": "Intel",
+      "Modelo": "Core i9-14900KS",
+      "Nucleos/Hilos": "8P+16E/32T",
+      "Frecuencia": {
+        "Base": "3.2 GHz",
+        "Boost": "6.0 GHz"
+      },
+      "Caché": {
+        "L1": "10 MB",
+        "L2": "32 MB",
+        "L3": "36 MB"
+      },
+      "TDP": "150W",
+      "Socket": "LGA1700",
+      "Tecnología": "Intel 7",
+      "Precio": "799,99€"
+    },
+    "PlacaBase": {
+      "Fabricante": "ASUS",
+      "Modelo": "ROG Strix Z790-E Gaming WiFi II",
+      "Socket": "LGA1700",
+      "Chipset": "Z790",
+      "Memoria RAM": "DDR5 hasta 128GB",
+      "Almacenamiento": {
+        "M.2": "5x PCIe 4.0/5.0",
+        "SATA": "6x SATA 6Gb/s"
+      },
+      "Puertos USB": {
+        "USB 3.2 Gen 2x2": "1",
+        "USB 3.2 Gen 2": "4",
+        "USB 3.2 Gen 1": "5"
+      },
+      "Redes": {
+        "WiFi": "WiFi 6E",
+        "Ethernet": "2.5Gb Ethernet"
+      },
+      "Precio": "429,90€"
+    },
+    "TarjetaGrafica": {
+      "Fabricante": "MSI",
+      "Modelo": "GeForce RTX 5080 Ventus 3X OC",
+      "Memoria": {
+        "Tamaño": "16GB",
+        "Tipo": "GDDR7"
+      },
+      "Interfaz": "PCIe 5.0",
+      "Núcleos CUDA": "10752",
+      "Frecuencia Boost": "2.7 GHz",
+      "Consumo": "320W",
+      "Conectividad": {
+        "HDMI": "HDMI 2.1a",
+        "DisplayPort": "DisplayPort 2.1"
+      },
+      "Precio": "999,99€"
+    },
+    "MemoriaRAM": {
+      "Fabricante": "G.Skill",
+      "Modelo": "Trident Z5 RGB DDR5",
+      "Capacidad": "32GB",
+      "Modulos": "2x16GB",
+      "Frecuencia": "6000MHz",
+      "Latencia": "CL36",
+      "Voltaje": "1.35V",
+      "RGB": "Sí",
+      "Precio": "159,99€"
+    },
+    "DiscoDuro": {
+      "Fabricante": "Samsung",
+      "Modelo": "990 Pro",
+      "Capacidad": "2TB",
+      "Tipo": "SSD NVMe",
+      "Interfaz": "PCIe 4.0 M.2",
+      "Velocidad": {
+        "Lectura": "7450MB/s",
+        "Escritura": "6900MB/s"
+      },
+      "Precio": "229,90€"
+    },
+    "FuenteAlimentacion": {
+      "Fabricante": "Seasonic",
+      "Modelo": "Prime TX-1000",
+      "Potencia": "1000W",
+      "Eficiencia": "80+ Titanium",
+      "Modular": "Full Modular",
+      "Color": "Negra",
+      "Precio": "289,99€"
+    },
+    "RefrigeracionLiquida": {
+      "Fabricante": "NZXT",
+      "Modelo": "Kraken X73 RGB",
+      "Radiador": "360mm",
+      "Ventiladores": {
+        "Cantidad": "3",
+        "Tamaño": "120mm",
+        "Tipo": "ARGB"
+      },
+      "Compatibilidad": [
+        "LGA1700",
+        "AM5",
+        "AM4"
+      ],
+      "Precio": "199,99€"
+    },
+    "Caja": {
+      "Fabricante": "Lian-Li",
+      "Modelo": "PC-O11 Dynamic",
+      "Formato": "ATX Mid Tower",
+      "Panel Lateral": "Vidrio templado",
+      "Soporte GPU": {
+        "Vertical": "Sí",
+        "Horizontal": "Sí"
+      },
+      "Colores": [
+        "Blanco",
+        "Negro"
+      ],
+      "Precio": "149,90€"
+    }
+  },
+  "PC3": {
+    "CPU": {
+      "Fabricante": "AMD",
+      "Modelo": "Ryzen 5 9600X",
+      "Nucleos/Hilos": "6C/12T",
+      "Frecuencia": {
+        "Base": "3.9 GHz",
+        "Boost": "5.4 GHz"
+      },
+      "Caché": {
+        "L1": "384 KB",
+        "L2": "6 MB",
+        "L3": "32 MB"
+      },
+      "TDP": "65W",
+      "Socket": "AM5",
+      "Tecnología": "TSMC 5nm FinFET",
+      "Precio": "299,99€"
+    },
+    "PlacaBase": {
+      "Fabricante": "MSI",
+      "Modelo": "B650M Mortar WiFi",
+      "Socket": "AM5",
+      "Chipset": "B650",
+      "Memoria RAM": "DDR5 hasta 128GB",
+      "Almacenamiento": {
+        "M.2": "2x PCIe 5.0",
+        "SATA": "6x SATA 6Gb/s"
+      },
+      "Puertos USB": {
+        "USB 3.2 Gen 2": "2",
+        "USB 3.2 Gen 1": "4",
+        "USB 2.0": "4"
+      },
+      "Redes": {
+        "WiFi": "WiFi 6",
+        "Ethernet": "2.5Gb Ethernet"
+      },
+      "Precio": "199,99€"
+    },
+    "TarjetaGrafica": {
+      "Fabricante": "ASUS",
+      "Modelo": "TUF Gaming Radeon RX 8800 XT",
+      "Memoria": {
+        "Tamaño": "16GB",
+        "Tipo": "GDDR6"
+      },
+      "Interfaz": "PCIe 4.0",
+      "Frecuencia Boost": "2.6 GHz",
+      "Consumo": "275W",
+      "Conectividad": {
+        "HDMI": "HDMI 2.1",
+        "DisplayPort": "DisplayPort 2.0"
+      },
+      "Precio": "649,99€"
+    },
+    "MemoriaRAM": {
+      "Fabricante": "Kingston",
+      "Modelo": "Fury Beast DDR5",
+      "Capacidad": "32GB",
+      "Modulos": "2x16GB",
+      "Frecuencia": "5200MHz",
+      "Latencia": "CL38",
+      "Voltaje": "1.25V",
+      "RGB": "No",
+      "Precio": "129,99€"
+    },
+    "DiscoDuro": {
+      "Fabricante": "Crucial",
+      "Modelo": "P5 Plus",
+      "Capacidad": "1TB",
+      "Tipo": "SSD NVMe",
+      "Interfaz": "PCIe 4.0 M.2",
+      "Velocidad": {
+        "Lectura": "6600MB/s",
+        "Escritura": "5000MB/s"
+      },
+      "Precio": "99,99€"
+    },
+    "FuenteAlimentacion": {
+      "Fabricante": "Corsair",
+      "Modelo": "RM850x",
+      "Potencia": "850W",
+      "Eficiencia": "80+ Gold",
+      "Modular": "Full Modular",
+      "Color": "Negra",
+      "Precio": "149,99€"
+    },
+    "RefrigeracionLiquida": {
+      "Fabricante": "Cooler Master",
+      "Modelo": "MasterLiquid ML240L V2",
+      "Radiador": "240mm",
+      "Ventiladores": {
+        "Cantidad": "2",
+        "Tamaño": "120mm",
+        "Tipo": "RGB"
+      },
+      "Compatibilidad": [
+        "AM5",
+        "LGA1700",
+        "AM4"
+      ],
+      "Precio": "89,99€"
+    },
+    "Caja": {
+      "Fabricante": "Fractal Design",
+      "Modelo": "Meshify 2 Compact",
+      "Formato": "ATX Mid Tower",
+      "Panel Lateral": "Vidrio templado",
+      "Soporte GPU": {
+        "Vertical": "No",
+        "Horizontal": "Sí"
+      },
+      "Colores": [
+        "Negro",
+        "Gris"
+      ],
+      "Precio": "109,99€"
+    }
+  }
+}
